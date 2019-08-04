@@ -10,4 +10,7 @@ dog.prototype.eat = function(cat){
 dog.prototype.sayHi =function(){
     console.log(1)
 }
+dog.prototype.sayGoodbye =function(){
+    console.log(1)
+}
 module.exports = dog;
